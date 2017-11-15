@@ -1,2 +1,0 @@
-# CampusWire
-first school project
